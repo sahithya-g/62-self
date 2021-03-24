@@ -1,0 +1,21 @@
+.contents{
+    
+    float: right;
+    color: brown;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+#mycarousel{
+    background-color: darksalmon;
+}
+#mycarousel img{
+    height:300px;
+    margin-top: 35px;
+}
+#poster{
+    height:300px;
+    width: 300px;
+}
